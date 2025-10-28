@@ -16,7 +16,6 @@ double calculateSummand(double x, int k) {
 double calculateSeriesSum(double x, int N) {
     if (x <= -1.0) {
         cout << "Помилка: x має бути більше за -1!" << endl;
-        //return NAN; // Not a Number - індикатор помилки
     }
     double totalSum = 0.0;
     // Цикл підсумовування

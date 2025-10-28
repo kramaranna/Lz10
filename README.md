@@ -4,13 +4,13 @@
 <img width="1496" height="228" alt="Знімок екрана 2025-10-28 о 12 45 27" src="https://github.com/user-attachments/assets/e416df1f-8c9c-435b-b775-21526ba07183" />
 <img width="706" height="42" alt="Знімок екрана 2025-10-28 о 12 45 29" src="https://github.com/user-attachments/assets/ee6106d1-e879-4d82-b7a7-aea246d9e3fd" />
 ### Блок схема 1  
-<img width="1409" height="721" alt="image" src="https://github.com/user-attachments/assets/47617f01-d6d5-47f7-9c06-d128b8f9319a" />
+<img width="1154" height="586" alt="image" src="https://github.com/user-attachments/assets/6b1a73e6-8667-4a61-969d-3ed67b98ff01" />
 <img width="848" height="762" alt="image" src="https://github.com/user-attachments/assets/8dd56de3-4b13-48b2-8bf1-fd689bfb4c31" />
 
 <img width="1246" height="172" alt="Знімок екрана 2025-10-28 о 12 46 00" src="https://github.com/user-attachments/assets/fe9b077c-5d3e-49a2-a5a2-aa04e0d03846" />
 <img width="418" height="114" alt="Знімок екрана 2025-10-28 о 12 46 09" src="https://github.com/user-attachments/assets/6c98e502-d50d-46e2-be24-31464864da34" />
 ### Блок схема 2
-<img width="951" height="770" alt="image" src="https://github.com/user-attachments/assets/d6ded855-f16d-437c-96e5-f54b2e2c5874" />
+<img width="877" height="703" alt="image" src="https://github.com/user-attachments/assets/85b93ef0-244b-4c77-b541-15fc530928df" />
 <img width="557" height="736" alt="image" src="https://github.com/user-attachments/assets/40972ecf-cb13-43e8-b49d-f9602e3a81e1" />
 
 ## 🧠🧩 Опис алгоритму  
